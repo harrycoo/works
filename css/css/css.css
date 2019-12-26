@@ -1,11 +1,13 @@
 
 @import url("reset.css");
 
-<style>
+
 .style {
     height: 100vh;
     width: 1000px;
-    background-color: #7C7C7C;
+    background-color: rgb(202, 202, 202);
     float: left;
 }
-</style>
+
+
+
